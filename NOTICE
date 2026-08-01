@@ -1,0 +1,31 @@
+Treesys website
+===============
+
+This repository is the public marketing and project site for Treesys
+(https://www.treesys.org/).
+
+Software license
+----------------
+HTML, CSS, JavaScript, and the site structure in this repository are licensed
+under GPL-3.0-or-later (see `LICENSE`), unless a file says otherwise.
+
+Brand and marks (not open-licensed)
+-----------------------------------
+Treesys®, Arborito™, and related names, logos, and mascot artwork are trademarks
+and/or copyright of their respective owners.
+
+They are **not** licensed under the GPL. All rights reserved.
+You may view them on the official site. You may not copy, modify, redistribute,
+or use them as the face of another product, channel, or site without written
+permission.
+
+Use of the Treesys / Arborito names and marks in forks or unofficial builds
+should follow the branding policy in the Arborito repository
+(`docs/forking-and-branding.md`).
+
+Third-party marks
+-----------------
+Names of other projects and platforms mentioned on the site belong to their
+respective owners and are used for identification only.
+
+This NOTICE is informational and is not legal advice.
